@@ -1,4 +1,4 @@
-## **AWS Solutions Architect Notes - EC2**
+## **AWS Solutions Architect Notes - EC2_Fundamentals**
 
 **EC2**
 
